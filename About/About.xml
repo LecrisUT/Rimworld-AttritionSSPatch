@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>[Author]ModName</name>
-	<author>Author</author>
-	<packageId>Author.ModName</packageId>
-	<url></url>
-	<description>(Empty)</description>
+	<name>[LC] Attrition Simple Sidearms Patch</name>
+	<author>Lecris</author>
+	<packageId>lecris.attritionsspatch</packageId>
+	<url>https://github.com/LecrisUT/Rimworld-AttritionSSPatch</url>
+	<description></description>
 	<supportedVersions>
         <li>1.1</li>
     </supportedVersions>
@@ -16,14 +16,19 @@
         <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
     </li>
 	<li>
-		<packageId>UnlimitedHugs.HugsLib</packageId>
+		<packageId>limetreesnake.attrition</packageId>
 		<displayName>HugsLib</displayName>
-		<downloadUrl>https://github.com/UnlimitedHugs/RimworldHugsLib/releases/latest</downloadUrl>
-		<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		<steamWorkshopUrl>steam://url/CommunityFilePage/2159649757</steamWorkshopUrl>
+	</li>
+	<li>
+		<packageId>petetimessix.simplesidearms</packageId>
+		<displayName>Simple sidearms</displayName>
+		<steamWorkshopUrl>steam://url/CommunityFilePage/927155256</steamWorkshopUrl>
 	</li>
 	</modDependencies>
 	<loadAfter>
 		<li>brrainz.harmony</li>
-		<li>UnlimitedHugs.HugsLib</li>
+		<li>limetreesnake.attrition</li>
+		<li>petetimessix.simplesidearms</li>
 	</loadAfter>
 </ModMetaData>

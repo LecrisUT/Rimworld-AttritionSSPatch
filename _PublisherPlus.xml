@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Excluded>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Rimworld-AttritionSSPatch\.git</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Rimworld-AttritionSSPatch\1.1\Assemblies\AttritionSSPatch.pdb</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Rimworld-AttritionSSPatch\Source</exclude>
+  </Excluded>
+</Configuration>

@@ -5,10 +5,10 @@
 *.ide-shm
 *.ide-wal
 .vs
-Source/ModName/.vs
-Source/ModName/ModName.csproj.user
-Source/ModName/obj
-Source/ModName/Properties/AssemblyInfo.cs
-ModName.rar
-1.1/Assemblies/ModName.pdb
-1.1/Assemblies/ModName.dll
+Source/AttritionSSPatch/.vs
+Source/AttritionSSPatch/AttritionSSPatch.csproj.user
+Source/AttritionSSPatch/obj
+Source/AttritionSSPatch/Properties/AssemblyInfo.cs
+AttritionSSPatch.rar
+1.1/Assemblies/AttritionSSPatch.pdb
+1.1/Assemblies/AttritionSSPatch.dll
